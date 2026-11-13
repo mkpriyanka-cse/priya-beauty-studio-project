@@ -65,6 +65,37 @@ Voiceover: "Make your wedding day even more special. Contact Priya Beauty Studio
 On-Screen Text: Your Dream Bridal Look Starts Here!
 
 CTA: Book Your Bridal Makeup Appointment Today!
+Script 2 – Bridal Makeup Transformation
+
+Duration: 20–30 seconds
+
+Hook: "Want to look stunning on your wedding day?"
+
+Problem: "Finding the right bridal makeup style can be stressful."
+
+Solution: "Priya Beauty Studio helps you prepare for your special day with a beautiful bridal makeup look."
+
+Visual: Show bridal makeup preparation and the finished look.
+
+CTA: "Contact us today to enquire about your bridal makeup appointment!"
+
+---
+
+Script 3 – Bride-to-Be Promotion
+
+Duration: 20–30 seconds
+
+Hook: "Hey, bride-to-be! Your big day is coming!"
+
+Problem: "You have your wedding outfit ready, but have you planned your bridal makeup?"
+
+Solution: "Let Priya Beauty Studio help you complete your wedding look."
+
+Visual: Show makeup products, makeup application and a bride smiling.
+
+CTA: "Send us a message and enquire about your bridal makeup today!"
+
+
 
 4. Problem–Solution–CTA Based Content
 

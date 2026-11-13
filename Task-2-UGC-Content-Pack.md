@@ -266,4 +266,30 @@ Create marketing content for Priya Beauty Studio using a friendly, elegant and p
 Prompt Logic:
 This prompt maintains a consistent brand personality and creates persuasive marketing messages.
 
+Script 4 – Bridal Makeup Confidence
 
+Video Duration: 20–30 seconds
+
+Hook:
+"Every bride deserves to feel beautiful and confident on her wedding day!"
+
+Problem:
+"Wedding preparations can be stressful, and choosing the perfect bridal makeup can be confusing."
+
+Solution:
+"Priya Beauty Studio helps brides get a beautiful bridal makeup look for their special day."
+
+Visuals:
+
+- Show bridal makeup products.
+- Show the makeup application process.
+- Show the bride's final makeup look.
+
+Voiceover:
+"Your wedding day is one of the most special days of your life. Let Priya Beauty Studio help you create a beautiful bridal look and feel confident on your big day."
+
+Call to Action (CTA):
+"Contact Priya Beauty Studio today and enquire about your bridal makeup appointment!"
+
+On-screen Text:
+"Your Dream Bridal Look Starts Here!"
